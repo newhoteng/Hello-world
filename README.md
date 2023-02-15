@@ -39,12 +39,12 @@
 ### Key Features
 - **A heading**
 
-<span style="position: relative; top: 0; right: 0;">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</span>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :rocket: Live Demo
 - Not deployed yet
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :computer: Getting Started
 To get a local copy up and running, follow these steps.<br>
@@ -75,7 +75,7 @@ To run tests, run the following command:<br>
 
 You can deploy this project using:
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :busts_in_silhouette: Authors
 :bust_in_silhouette: **Author 1**
@@ -89,23 +89,23 @@ You can deploy this project using:
 - [ ] **A main section**
 - [ ] **A footer section**
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/newhoteng/Hello-world/issues).
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :star: Show your support
 If you like this project follow me on GitHub.
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :pray: Acknowledgements
 I would like to thank my team mates.
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :question: FAQ 
 - **What is Microverse?**
@@ -114,5 +114,5 @@ I would like to thank my team mates.
 ## :memo: License
 No license yet.
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
