@@ -59,21 +59,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:<br>
 
+Read the following on how to clone a repository: [Cloning a repository](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
+
 **Install**<br>
 
-Install this project with:<br>
-
-**Usage**<br>
-
-To run the project, execute the following command:<br>
-
-**Run tests**<br>
-
-To run tests, run the following command:<br>
-
-**Deployment**<br>
-
-You can deploy this project using:
+Instructions on how to install linters can be found here: [Install linters](https://github.com/microverseinc/linters-config/tree/master/html-css#readme)
 
 <p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
