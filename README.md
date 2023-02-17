@@ -51,19 +51,24 @@ To get a local copy up and running, follow these steps.<br>
 
 **Prerequisites**<br>
 
-In order to run this project you need:
-- Text editor
-- GitHub account<br>
+In order to run this project you need basic understanding of the following:<br>
+- HTML5 and CSS3
+- Git and GitHub
+- Node Package Modules
 
 **Setup**<br>
 
 Clone this repository to your desired folder:<br>
-
-Read the following on how to clone a repository: [Cloning a repository](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
+```
+git clone https://github.com/newhoteng/Hello-world.git
+```
 
 **Install**<br>
 
-Instructions on how to install linters can be found here: [Install linters](https://github.com/microverseinc/linters-config/tree/master/html-css#readme)
+Install this project with:<br>
+```
+npm install
+```
 
 <p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
@@ -73,7 +78,7 @@ Instructions on how to install linters can be found here: [Install linters](http
 - Twitter: [@twitterhandle](https://twitter.com/HarrietOteng1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/harriet-oteng-75554666/)
 
-<p>(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
 
 ## :telescope: Future Features
 - [ ] **A main section**
@@ -102,6 +107,7 @@ I would like to thank my team mates.
   - Microverse is an organization that trains individuals to become international software developers.
   
 ## :memo: License
-[License](https://github.com/newhoteng/Hello-world/blob/add-and-style-heading/LICENSE.txt)
+This project is [MIT](https://github.com/newhoteng/Hello-world/blob/main/LICENSE) licensed
 
 <p align="right">(<a href="https://github.com/newhoteng/Hello-world#readme">back to top</a>)</p>
+
